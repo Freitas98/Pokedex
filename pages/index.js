@@ -27,7 +27,7 @@ export default function Home( {pokemons} ) {
     <>
       <div className={styles.titleContainer}>
         <h1 className={styles.title}>
-          Poke<span>Dex</span>
+          Baptista<span>Dex</span>
         </h1>
         <Image 
           src="/images/pokeball.png"
